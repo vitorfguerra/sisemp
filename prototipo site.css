@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(199, 194, 194);
+
+    }
+
+#wrap{
+    width: 600px;
+    margin: auto;
+    background-color:gray;  
+    padding: 50px 40px;  
+    text-align:center
+
+
+}
+
+/* comentario
+padding--- tem a função das margens acima,direita,
+abaixo.esquerda
+
+
+
+*/
